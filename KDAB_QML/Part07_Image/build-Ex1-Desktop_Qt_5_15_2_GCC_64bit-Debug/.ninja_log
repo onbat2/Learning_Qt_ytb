@@ -1,0 +1,19 @@
+# ninja log v5
+1	5	1678623669665338017	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/build-Ex1-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex1_autogen/EWIEGA46WW/qrc_qml.cpp	86056280206c770f
+0	19	1678623558501254169	Ex1_autogen/mocs_compilation.cpp	36a17516ef09b7d4
+25	39	1678623558521254133	CMakeFiles/Ex1.dir/Ex1_autogen/mocs_compilation.cpp.o	4c67eadb11dbbdaa
+26	800	1678623559285252779	CMakeFiles/Ex1.dir/main.cpp.o	c1a0ca79cc40ea1d
+0	19	1678623558501254169	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/build-Ex1-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex1_autogen/mocs_compilation.cpp	36a17516ef09b7d4
+1	5	1678623669665338017	Ex1_autogen/EWIEGA46WW/qrc_qml.cpp	86056280206c770f
+5	21	1678623669681338067	CMakeFiles/Ex1.dir/Ex1_autogen/EWIEGA46WW/qrc_qml.cpp.o	2cecd202a719d70
+0	19	1678623558501254169	Ex1_autogen/timestamp	36a17516ef09b7d4
+0	19	1678623558501254169	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/build-Ex1-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex1_autogen/timestamp	36a17516ef09b7d4
+21	243	1678623669901338752	Ex1	5968f96900cdc0ab
+1	11	1678623717521531328	Ex1_autogen/timestamp	36a17516ef09b7d4
+1	11	1678623717521531328	Ex1_autogen/mocs_compilation.cpp	36a17516ef09b7d4
+1	11	1678623717521531328	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/build-Ex1-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex1_autogen/timestamp	36a17516ef09b7d4
+1	11	1678623717521531328	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/build-Ex1-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex1_autogen/mocs_compilation.cpp	36a17516ef09b7d4
+11	21	1678623717529531367	Ex1_autogen/EWIEGA46WW/qrc_qml.cpp	86056280206c770f
+11	21	1678623717529531367	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/build-Ex1-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex1_autogen/EWIEGA46WW/qrc_qml.cpp	86056280206c770f
+22	129	1678623717637531899	CMakeFiles/Ex1.dir/Ex1_autogen/EWIEGA46WW/qrc_qml.cpp.o	2cecd202a719d70
+129	321	1678623717829532845	Ex1	5968f96900cdc0ab

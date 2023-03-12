@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-bbdf42d1a2487e2c888d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex1-Release-05182d8bc4ab11ccec49.json",
+					"name" : "Ex1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex1_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex1_autogen-Release-3c3693ac6478e599451e.json",
+					"name" : "Ex1_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex1_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex1_autogen_timestamp_deps-Release-ad178150b15f72a9db50.json",
+					"name" : "Ex1_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/build-Ex1-Desktop_Qt_5_15_2_GCC_64bit-Release",
+		"source" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/Ex1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
