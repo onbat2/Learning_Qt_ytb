@@ -12,8 +12,10 @@ Window {
         Text {
             text: "Press me"
             x: 175; y: 0
+            font.pixelSize: 20
             MouseArea{
                 anchors.fill: parent
+                //make sure that this mouse area has exactly the size of the text
                 onPressed: parent.color = "green"
                 onReleased: parent.color = "black"
             }
@@ -21,6 +23,7 @@ Window {
         Text{
             text: "Click me"
             x: 175; y: 150
+            font.pixelSize: 20
             MouseArea{
                 anchors.fill: parent
                 onClicked: parent.font.bold = !parent.font.bold
