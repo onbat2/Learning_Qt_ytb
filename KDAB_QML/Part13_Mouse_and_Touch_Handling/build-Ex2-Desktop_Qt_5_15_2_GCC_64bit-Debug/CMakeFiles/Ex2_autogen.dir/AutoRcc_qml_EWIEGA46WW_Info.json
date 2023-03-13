@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part13_Mouse_and_Touch_Handling/build-Ex2-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex2_autogen",
+	"CMAKE_BINARY_DIR" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part13_Mouse_and_Touch_Handling/build-Ex2-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part13_Mouse_and_Touch_Handling/build-Ex2-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part13_Mouse_and_Touch_Handling/Ex2",
+	"CMAKE_SOURCE_DIR" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part13_Mouse_and_Touch_Handling/Ex2",
+	"INCLUDE_DIR" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part13_Mouse_and_Touch_Handling/build-Ex2-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex2_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part13_Mouse_and_Touch_Handling/Ex2/main.qml"
+	],
+	"LOCK_FILE" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part13_Mouse_and_Touch_Handling/build-Ex2-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/Ex2_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/onbat2/Qt/5.15.2/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part13_Mouse_and_Touch_Handling/build-Ex2-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/Ex2_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part13_Mouse_and_Touch_Handling/Ex2/qml.qrc",
+	"VERBOSITY" : 0
+}
