@@ -1,0 +1,11 @@
+# ninja log v5
+0	10	1678676596647356724	Ex1_autogen/timestamp	d98293de4330f46f
+0	10	1678676596647356724	Ex1_autogen/mocs_compilation.cpp	d98293de4330f46f
+0	10	1678676596647356724	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part12_Colors_and_Gradients/build-Ex1-Desktop_Qt_5_15_2_GCC_64bit-Release/Ex1_autogen/timestamp	d98293de4330f46f
+0	10	1678676596647356724	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part12_Colors_and_Gradients/build-Ex1-Desktop_Qt_5_15_2_GCC_64bit-Release/Ex1_autogen/mocs_compilation.cpp	d98293de4330f46f
+10	12	1678676596651356706	Ex1_autogen/EWIEGA46WW/qrc_qml.cpp	dbf5625d38eef21
+10	12	1678676596651356706	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part12_Colors_and_Gradients/build-Ex1-Desktop_Qt_5_15_2_GCC_64bit-Release/Ex1_autogen/EWIEGA46WW/qrc_qml.cpp	dbf5625d38eef21
+12	21	1678676596659356672	CMakeFiles/Ex1.dir/Ex1_autogen/mocs_compilation.cpp.o	2873546e0d8a8e3a
+13	30	1678676596667356637	CMakeFiles/Ex1.dir/Ex1_autogen/EWIEGA46WW/qrc_qml.cpp.o	a204f7fbb33b2455
+13	683	1678676597319353842	CMakeFiles/Ex1.dir/main.cpp.o	30bd17d4880b1076
+683	882	1678676597519352987	Ex1	26ef08cfdab18bc8
