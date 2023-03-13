@@ -1,0 +1,9 @@
+/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex2_right-left_arrow-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/Ex2_right-left_arrow.dir
+/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex2_right-left_arrow-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex2_right-left_arrow-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex2_right-left_arrow-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex2_right-left_arrow-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex2_right-left_arrow-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex2_right-left_arrow-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex2_right-left_arrow-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/Ex2_right-left_arrow_autogen_timestamp_deps.dir
+/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex2_right-left_arrow-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/Ex2_right-left_arrow_autogen.dir

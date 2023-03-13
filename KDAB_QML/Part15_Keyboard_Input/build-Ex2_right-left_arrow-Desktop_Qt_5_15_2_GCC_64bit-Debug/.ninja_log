@@ -1,0 +1,15 @@
+# ninja log v5
+0	9	1678695079085504428	Ex2_right-left_arrow_autogen/timestamp	1b64ee8b74221996
+0	9	1678695079085504428	Ex2_right-left_arrow_autogen/mocs_compilation.cpp	1b64ee8b74221996
+0	9	1678695079085504428	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex2_right-left_arrow-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex2_right-left_arrow_autogen/timestamp	1b64ee8b74221996
+0	9	1678695079085504428	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex2_right-left_arrow-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex2_right-left_arrow_autogen/mocs_compilation.cpp	1b64ee8b74221996
+9	12	1678695079089504345	Ex2_right-left_arrow_autogen/EWIEGA46WW/qrc_qml.cpp	2ad376c145978ad2
+9	12	1678695079089504345	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex2_right-left_arrow-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex2_right-left_arrow_autogen/EWIEGA46WW/qrc_qml.cpp	2ad376c145978ad2
+12	21	1678695079101504091	CMakeFiles/Ex2_right-left_arrow.dir/Ex2_right-left_arrow_autogen/mocs_compilation.cpp.o	50eab98dfc072900
+12	27	1678695079105504008	CMakeFiles/Ex2_right-left_arrow.dir/Ex2_right-left_arrow_autogen/EWIEGA46WW/qrc_qml.cpp.o	4a07857b97a150a
+12	775	1678695079857488198	CMakeFiles/Ex2_right-left_arrow.dir/main.cpp.o	68abf916b59d99f3
+775	971	1678695080045484247	Ex2_right-left_arrow	f84aceaf300108a2
+1	6	1678695163167910158	Ex2_right-left_arrow_autogen/EWIEGA46WW/qrc_qml.cpp	2ad376c145978ad2
+1	6	1678695163167910158	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex2_right-left_arrow-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex2_right-left_arrow_autogen/EWIEGA46WW/qrc_qml.cpp	2ad376c145978ad2
+6	25	1678695163187909818	CMakeFiles/Ex2_right-left_arrow.dir/Ex2_right-left_arrow_autogen/EWIEGA46WW/qrc_qml.cpp.o	4a07857b97a150a
+25	241	1678695163403906152	Ex2_right-left_arrow	f84aceaf300108a2
