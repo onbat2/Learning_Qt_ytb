@@ -1,0 +1,15 @@
+# ninja log v5
+0	18	1678694688330970520	Ex1_Tab_autogen/timestamp	cf27eab5eddd3bde
+0	18	1678694688330970520	Ex1_Tab_autogen/mocs_compilation.cpp	cf27eab5eddd3bde
+0	18	1678694688330970520	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex1_Tab-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex1_Tab_autogen/timestamp	cf27eab5eddd3bde
+0	18	1678694688330970520	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex1_Tab-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex1_Tab_autogen/mocs_compilation.cpp	cf27eab5eddd3bde
+18	21	1678694688334970312	Ex1_Tab_autogen/EWIEGA46WW/qrc_qml.cpp	36cd7ceb66cdc4af
+18	21	1678694688334970312	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex1_Tab-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex1_Tab_autogen/EWIEGA46WW/qrc_qml.cpp	36cd7ceb66cdc4af
+21	31	1678694688346969692	CMakeFiles/Ex1_Tab.dir/Ex1_Tab_autogen/mocs_compilation.cpp.o	134c77543b411966
+22	37	1678694688350969485	CMakeFiles/Ex1_Tab.dir/Ex1_Tab_autogen/EWIEGA46WW/qrc_qml.cpp.o	f5286828c3661787
+21	779	1678694689094931009	CMakeFiles/Ex1_Tab.dir/main.cpp.o	77c749a59fd9fe0e
+780	973	1678694689286921100	Ex1_Tab	4036be123f45e33c
+1	5	1678694697082521897	Ex1_Tab_autogen/EWIEGA46WW/qrc_qml.cpp	36cd7ceb66cdc4af
+1	5	1678694697082521897	/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex1_Tab-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex1_Tab_autogen/EWIEGA46WW/qrc_qml.cpp	36cd7ceb66cdc4af
+5	21	1678694697098521085	CMakeFiles/Ex1_Tab.dir/Ex1_Tab_autogen/EWIEGA46WW/qrc_qml.cpp.o	f5286828c3661787
+21	237	1678694697314510128	Ex1_Tab	4036be123f45e33c

@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex1_Tab-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex1_Tab_autogen",
+	"CMAKE_BINARY_DIR" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex1_Tab-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex1_Tab-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/Ex1_Tab",
+	"CMAKE_SOURCE_DIR" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/Ex1_Tab",
+	"INCLUDE_DIR" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex1_Tab-Desktop_Qt_5_15_2_GCC_64bit-Debug/Ex1_Tab_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/Ex1_Tab/main.qml"
+	],
+	"LOCK_FILE" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex1_Tab-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/Ex1_Tab_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/onbat2/Qt/5.15.2/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex1_Tab-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/Ex1_Tab_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/Ex1_Tab/qml.qrc",
+	"VERBOSITY" : 0
+}

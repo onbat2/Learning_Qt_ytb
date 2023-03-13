@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b64b25a87e416445e562.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex1_Tab",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex1_Tab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex1_Tab-Debug-67e31e2f59fdf98a26d5.json",
+					"name" : "Ex1_Tab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex1_Tab_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex1_Tab_autogen-Debug-012976b0554fc8cb1d03.json",
+					"name" : "Ex1_Tab_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex1_Tab_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex1_Tab_autogen_timestamp_deps-Debug-d2ad8da6a1f0689e9cb8.json",
+					"name" : "Ex1_Tab_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/build-Ex1_Tab-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+		"source" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part15_Keyboard_Input/Ex1_Tab"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
