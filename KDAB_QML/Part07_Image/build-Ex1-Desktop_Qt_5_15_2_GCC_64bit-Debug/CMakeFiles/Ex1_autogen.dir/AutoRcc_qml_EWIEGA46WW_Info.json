@@ -8,7 +8,7 @@
 	"INPUTS" : 
 	[
 		"/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/Ex1/main.qml",
-		"/home/onbat2/Pictures/jellyfish.png"
+		"/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/Ex1/resoursce/jellyfish.png"
 	],
 	"LOCK_FILE" : "/home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/build-Ex1-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/Ex1_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,

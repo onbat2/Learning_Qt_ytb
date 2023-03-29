@@ -182,7 +182,7 @@ build Ex1_autogen/timestamp Ex1_autogen/mocs_compilation.cpp | ${cmake_ninja_wor
 #############################################
 # Custom command for Ex1_autogen/EWIEGA46WW/qrc_qml.cpp
 
-build Ex1_autogen/EWIEGA46WW/qrc_qml.cpp | ${cmake_ninja_workdir}Ex1_autogen/EWIEGA46WW/qrc_qml.cpp: CUSTOM_COMMAND /home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/Ex1/qml.qrc CMakeFiles/Ex1_autogen.dir/AutoRcc_qml_EWIEGA46WW_Info.json /home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/Ex1/main.qml /home/onbat2/Pictures/jellyfish.png /home/onbat2/Qt/5.15.2/gcc_64/bin/rcc || Ex1_autogen Ex1_autogen_timestamp_deps
+build Ex1_autogen/EWIEGA46WW/qrc_qml.cpp | ${cmake_ninja_workdir}Ex1_autogen/EWIEGA46WW/qrc_qml.cpp: CUSTOM_COMMAND /home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/Ex1/qml.qrc CMakeFiles/Ex1_autogen.dir/AutoRcc_qml_EWIEGA46WW_Info.json /home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/Ex1/main.qml /home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/Ex1/resoursce/jellyfish.png /home/onbat2/Qt/5.15.2/gcc_64/bin/rcc || Ex1_autogen Ex1_autogen_timestamp_deps
   COMMAND = cd /home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/build-Ex1-Desktop_Qt_5_15_2_GCC_64bit-Debug && /home/onbat2/Qt/Tools/CMake/bin/cmake -E cmake_autorcc /home/onbat2/Documents/Learning_Qt_ytb/KDAB_QML/Part07_Image/build-Ex1-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/Ex1_autogen.dir/AutoRcc_qml_EWIEGA46WW_Info.json Debug
   DESC = Automatic RCC for qml.qrc
   restat = 1
